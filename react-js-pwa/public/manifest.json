@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "short_name": "Code Nam",
+  "description": "A code nam project collection",
+  "display": "standalone",
+  "name": "Project Collection",
+  "android_package_name":"com.noel.codenam",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "theme_color": "#6c59e0",
+  "background_color": "#6c59e0"
+}
