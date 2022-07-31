@@ -4,7 +4,7 @@
 # Preview
 
 <div align="center">
-  <img src="preview.png" height="760"  alt="preview-page"/>
+  <img src="preview.png"  alt="preview-page"/>
 </div>
 
 # Requirements
